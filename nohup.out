@@ -1,0 +1,761 @@
+[I 19:56:30.397 NotebookApp] The port 8888 is already in use, trying another port.
+[I 19:56:30.429 NotebookApp] JupyterLab extension loaded from /home/qatrach/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 19:56:30.429 NotebookApp] JupyterLab application directory is /home/qatrach/anaconda3/share/jupyter/lab
+[I 19:56:30.431 NotebookApp] Serving notebooks from local directory: /home/qatrach/Inverted_pendulum_2
+[I 19:56:30.431 NotebookApp] The Jupyter Notebook is running at:
+[I 19:56:30.431 NotebookApp] http://(inverted-pendulum1 or 127.0.0.1):8889/?token=c5937780d881b4fe62d4f808ba364cd4819a5e6703005b31
+[I 19:56:30.431 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:56:30.434 NotebookApp] No web browser found: could not locate runnable browser.
+[C 19:56:30.435 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1001/jupyter/nbserver-18057-open.html
+    Or copy and paste one of these URLs:
+        http://(inverted-pendulum1 or 127.0.0.1):8889/?token=c5937780d881b4fe62d4f808ba364cd4819a5e6703005b31
+[I 20:07:20.637 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[I 20:07:23.323 NotebookApp] JupyterLab extension loaded from /home/qatrach/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 20:07:23.324 NotebookApp] JupyterLab application directory is /home/qatrach/anaconda3/share/jupyter/lab
+[I 20:07:23.325 NotebookApp] Serving notebooks from local directory: /home/qatrach/Inverted_pendulum_2
+[I 20:07:23.325 NotebookApp] The Jupyter Notebook is running at:
+[I 20:07:23.325 NotebookApp] http://(inverted-pendulum1 or 127.0.0.1):8888/?token=019b4f5e71c5222c161af572ff6a0bda71f47d7591e36d5e
+[I 20:07:23.325 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 20:07:23.331 NotebookApp] No web browser found: could not locate runnable browser.
+[C 20:07:23.331 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1001/jupyter/nbserver-1874-open.html
+    Or copy and paste one of these URLs:
+        http://(inverted-pendulum1 or 127.0.0.1):8888/?token=019b4f5e71c5222c161af572ff6a0bda71f47d7591e36d5e
+[I 20:07:44.728 NotebookApp] 302 GET / (83.3.249.157) 0.68ms
+[W 20:07:44.900 NotebookApp] Clearing invalid/expired login cookie username-34-74-185-224-8888
+[I 20:07:44.901 NotebookApp] 302 GET /tree? (83.3.249.157) 1.84ms
+[I 20:07:56.811 NotebookApp] 302 GET /?token=019b4f5e71c5222c161af572ff6a0bda71f47d7591e36d5e (83.3.249.157) 0.61ms
+[I 20:08:42.003 NotebookApp] 302 GET /?token=019b4f5e71c5222c161af572ff6a0bda71f47d7591e36d5e (83.3.249.157) 0.67ms
+[I 20:12:18.414 NotebookApp] Kernel started: db697c6f-854b-4057-922e-7294b086c103
+[I 20:12:23.058 NotebookApp] Adapting to protocol v5.1 for kernel db697c6f-854b-4057-922e-7294b086c103
+[I 20:14:23.337 NotebookApp] Saving file at /1_test_notes.ipynb
+[I 20:22:11.045 NotebookApp] Kernel shutdown: db697c6f-854b-4057-922e-7294b086c103
+[I 20:32:24.027 NotebookApp] Kernel started: 6e1bd775-a6fb-4c29-aa68-5da84eb09d7d
+[I 20:32:38.193 NotebookApp] Kernel shutdown: 6e1bd775-a6fb-4c29-aa68-5da84eb09d7d
+[I 20:32:50.072 NotebookApp] Kernel started: 4d12ba17-6040-4968-a167-c9d65f1fc56e
+[I 20:32:57.783 NotebookApp] Kernel restarted: 4d12ba17-6040-4968-a167-c9d65f1fc56e
+[W 20:33:11.566 NotebookApp] Replacing stale connection: 4d12ba17-6040-4968-a167-c9d65f1fc56e:6926202404364498b4f49917ca350f04
+[W 20:33:24.352 NotebookApp] Timeout waiting for kernel_info reply from 6e1bd775-a6fb-4c29-aa68-5da84eb09d7d
+[E 20:33:24.353 NotebookApp] Error opening stream: HTTP 404: Not Found (Kernel does not exist: 6e1bd775-a6fb-4c29-aa68-5da84eb09d7d)
+[W 20:33:33.622 NotebookApp] Replacing stale connection: 4d12ba17-6040-4968-a167-c9d65f1fc56e:6926202404364498b4f49917ca350f04
+[W 20:33:50.550 NotebookApp] Timeout waiting for kernel_info reply from 4d12ba17-6040-4968-a167-c9d65f1fc56e
+[I 20:33:50.690 NotebookApp] Starting buffering for 4d12ba17-6040-4968-a167-c9d65f1fc56e:6926202404364498b4f49917ca350f04
+[I 20:33:50.692 NotebookApp] Restoring connection for 4d12ba17-6040-4968-a167-c9d65f1fc56e:6926202404364498b4f49917ca350f04
+[W 20:33:57.786 NotebookApp] Timeout waiting for kernel_info_reply: 4d12ba17-6040-4968-a167-c9d65f1fc56e
+[E 20:33:57.786 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/home/qatrach/anaconda3/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 85, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/home/qatrach/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+        value = future.result()
+      File "/home/qatrach/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/qatrach/anaconda3/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py", line 324, in restart_kernel
+        yield future
+      File "/home/qatrach/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+        value = future.result()
+    tornado.util.TimeoutError: Timeout waiting for restart
+[E 20:33:57.854 NotebookApp] {
+      "Host": "34.74.185.224:8888",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Accept-Language": "pl,en-US;q=0.7,en;q=0.3",
+      "Accept-Encoding": "gzip, deflate",
+      "Referer": "http://34.74.185.224:8888/notebooks/3_PID.ipynb",
+      "X-Xsrftoken": "2|42ae2f92|eccd1342c34734beb2c25fcf1aa58f6f|1557687705",
+      "X-Requested-With": "XMLHttpRequest",
+      "Dnt": "1",
+      "Connection": "keep-alive",
+      "Cookie": "_xsrf=2|42ae2f92|eccd1342c34734beb2c25fcf1aa58f6f|1557687705; username-34-74-185-224-8888=\"2|1:0|10:1557864476|27:username-34-74-185-224-8888|44:MWI3OTk3NDI0OTJiNDZiZWIyMzAxYTEwMzE4N2Y5NmY=|76fbd2dcd1d0252c5d293bea545045324d7d32d1b1a72192e00a97e777b58597\"",
+      "Content-Length": "0"
+    }
+[E 20:33:57.854 NotebookApp] 500 POST /api/kernels/4d12ba17-6040-4968-a167-c9d65f1fc56e/restart (83.3.249.157) 65091.04ms referer=http://34.74.185.224:8888/notebooks/3_PID.ipynb
+[I 20:33:58.005 NotebookApp] Starting buffering for 4d12ba17-6040-4968-a167-c9d65f1fc56e:6926202404364498b4f49917ca350f04
+[I 20:33:59.627 NotebookApp] Kernel shutdown: 4d12ba17-6040-4968-a167-c9d65f1fc56e
+[I 20:33:59.629 NotebookApp] Adapting to protocol v5.1 for kernel 4d12ba17-6040-4968-a167-c9d65f1fc56e
+[I 20:33:59.799 NotebookApp] Kernel started: 91833930-cfac-4912-9ad9-72b2c4ce48a2
+[I 20:34:01.032 NotebookApp] Adapting to protocol v5.1 for kernel 91833930-cfac-4912-9ad9-72b2c4ce48a2
+[I 20:34:21.298 NotebookApp] Kernel interrupted: 91833930-cfac-4912-9ad9-72b2c4ce48a2
+[I 20:34:23.649 NotebookApp] Kernel interrupted: 91833930-cfac-4912-9ad9-72b2c4ce48a2
+[I 20:34:39.587 NotebookApp] Starting buffering for 91833930-cfac-4912-9ad9-72b2c4ce48a2:6926202404364498b4f49917ca350f04
+[I 20:34:39.911 NotebookApp] Kernel restarted: 91833930-cfac-4912-9ad9-72b2c4ce48a2
+[I 20:34:41.397 NotebookApp] Adapting to protocol v5.1 for kernel 91833930-cfac-4912-9ad9-72b2c4ce48a2
+[I 20:34:41.398 NotebookApp] Restoring connection for 91833930-cfac-4912-9ad9-72b2c4ce48a2:6926202404364498b4f49917ca350f04
+[I 20:34:41.398 NotebookApp] Replaying 9 buffered messages
+[I 20:34:50.455 NotebookApp] Saving file at /3_PID.ipynb
+[I 20:36:51.410 NotebookApp] Saving file at /3_PID.ipynb
+[I 20:38:53.710 NotebookApp] Saving file at /3_PID.ipynb
+[I 20:40:53.749 NotebookApp] Saving file at /3_PID.ipynb
+[I 21:03:01.599 NotebookApp] Starting buffering for 91833930-cfac-4912-9ad9-72b2c4ce48a2:6926202404364498b4f49917ca350f04
+[I 21:05:31.588 NotebookApp] Adapting to protocol v5.1 for kernel 91833930-cfac-4912-9ad9-72b2c4ce48a2
+[I 21:30:24.681 NotebookApp] Kernel started: b335bb91-334c-4e95-9e78-b8f69c39e444
+[W 21:30:46.086 NotebookApp] Replacing stale connection: b335bb91-334c-4e95-9e78-b8f69c39e444:985e8e7a15ad43db8dc744cc6359125b
+[I 21:31:05.389 NotebookApp] Adapting to protocol v5.1 for kernel b335bb91-334c-4e95-9e78-b8f69c39e444
+[I 21:31:05.531 NotebookApp] Starting buffering for b335bb91-334c-4e95-9e78-b8f69c39e444:985e8e7a15ad43db8dc744cc6359125b
+[I 21:31:05.532 NotebookApp] Adapting to protocol v5.1 for kernel b335bb91-334c-4e95-9e78-b8f69c39e444
+[I 21:31:05.532 NotebookApp] Restoring connection for b335bb91-334c-4e95-9e78-b8f69c39e444:985e8e7a15ad43db8dc744cc6359125b
+[I 21:31:33.609 NotebookApp] Saving file at /3_PID.ipynb
+[I 21:32:28.440 NotebookApp] Saving file at /4_PID_with_implementation.ipynb
+[I 21:33:35.079 NotebookApp] Saving file at /3_PID.ipynb
+[I 21:35:35.647 NotebookApp] Saving file at /3_PID.ipynb
+[I 21:39:34.390 NotebookApp] Saving file at /3_PID.ipynb
+[I 21:41:35.200 NotebookApp] Saving file at /3_PID.ipynb
+[I 21:43:35.195 NotebookApp] Saving file at /3_PID.ipynb
+[W 21:51:01.590 NotebookApp] WebSocket ping timeout after 119863 ms.
+[W 21:51:05.535 NotebookApp] WebSocket ping timeout after 119863 ms.
+[I 21:51:06.593 NotebookApp] Starting buffering for 91833930-cfac-4912-9ad9-72b2c4ce48a2:f5bb4e3e467b4444b30ad33b0acd5f43
+[I 21:51:10.537 NotebookApp] Starting buffering for b335bb91-334c-4e95-9e78-b8f69c39e444:985e8e7a15ad43db8dc744cc6359125b
+[W 01:36:55.691 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 50.71ms referer=None
+[I 05:58:40.163 NotebookApp] Adapting to protocol v5.1 for kernel b335bb91-334c-4e95-9e78-b8f69c39e444
+[I 05:58:40.163 NotebookApp] Restoring connection for b335bb91-334c-4e95-9e78-b8f69c39e444:985e8e7a15ad43db8dc744cc6359125b
+[I 05:58:40.537 NotebookApp] Adapting to protocol v5.1 for kernel 91833930-cfac-4912-9ad9-72b2c4ce48a2
+[I 05:58:40.537 NotebookApp] Restoring connection for 91833930-cfac-4912-9ad9-72b2c4ce48a2:f5bb4e3e467b4444b30ad33b0acd5f43
+[I 06:22:33.061 NotebookApp] Saving file at /3_PID.ipynb
+[I 06:24:33.374 NotebookApp] Saving file at /3_PID.ipynb
+[I 06:26:33.424 NotebookApp] Saving file at /3_PID.ipynb
+[I 06:28:33.565 NotebookApp] Saving file at /3_PID.ipynb
+[I 06:30:33.403 NotebookApp] Saving file at /3_PID.ipynb
+[I 06:44:33.512 NotebookApp] Saving file at /3_PID.ipynb
+[I 06:46:33.600 NotebookApp] Saving file at /3_PID.ipynb
+[I 06:47:16.512 NotebookApp] Kernel interrupted: 91833930-cfac-4912-9ad9-72b2c4ce48a2
+[I 06:47:39.391 NotebookApp] Starting buffering for b335bb91-334c-4e95-9e78-b8f69c39e444:985e8e7a15ad43db8dc744cc6359125b
+[I 06:47:39.751 NotebookApp] Kernel shutdown: b335bb91-334c-4e95-9e78-b8f69c39e444
+[I 06:48:32.217 NotebookApp] Saving file at /3_PID.ipynb
+[I 06:50:34.386 NotebookApp] Saving file at /3_PID.ipynb
+[I 06:52:32.215 NotebookApp] Saving file at /3_PID.ipynb
+[I 06:54:34.798 NotebookApp] Saving file at /3_PID.ipynb
+[I 06:56:33.071 NotebookApp] Saving file at /3_PID.ipynb
+[I 06:58:34.733 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:00:33.344 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:02:34.600 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:12:34.926 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:14:33.621 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:16:35.364 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:18:33.959 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:20:34.245 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:22:34.082 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:24:34.830 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:28:35.455 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:30:34.567 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:34:36.020 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:36:35.532 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:38:36.254 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:42:36.441 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:44:38.357 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:44:39.447 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:44:43.300 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:46:55.321 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:49:06.832 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:51:17.106 NotebookApp] Saving file at /3_PID.ipynb
+[I 07:59:58.232 NotebookApp] Saving file at /3_PID.ipynb
+[I 08:02:08.144 NotebookApp] Saving file at /3_PID.ipynb
+[I 08:04:18.172 NotebookApp] Saving file at /3_PID.ipynb
+[I 08:06:28.195 NotebookApp] Saving file at /3_PID.ipynb
+[I 08:08:38.483 NotebookApp] Saving file at /3_PID.ipynb
+[I 08:09:34.109 NotebookApp] Starting buffering for 91833930-cfac-4912-9ad9-72b2c4ce48a2:f5bb4e3e467b4444b30ad33b0acd5f43
+[I 08:09:35.067 NotebookApp] Kernel shutdown: 91833930-cfac-4912-9ad9-72b2c4ce48a2
+[W 10:17:52.110 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.81ms referer=None
+[W 10:40:09.767 NotebookApp] 404 HEAD http://123.125.114.144/ (106.45.1.20) 40.71ms referer=None
+[I 15:55:09.091 NotebookApp] Kernel started: d55f4042-a62a-448f-a6e4-b06daba5f63e
+[W 15:55:30.472 NotebookApp] Replacing stale connection: d55f4042-a62a-448f-a6e4-b06daba5f63e:3bd172978aa74fc687a4b5cef3570c18
+[I 15:55:40.710 NotebookApp] Adapting to protocol v5.1 for kernel d55f4042-a62a-448f-a6e4-b06daba5f63e
+[I 15:55:40.860 NotebookApp] Starting buffering for d55f4042-a62a-448f-a6e4-b06daba5f63e:3bd172978aa74fc687a4b5cef3570c18
+[I 15:55:40.861 NotebookApp] Adapting to protocol v5.1 for kernel d55f4042-a62a-448f-a6e4-b06daba5f63e
+[I 15:55:40.863 NotebookApp] Restoring connection for d55f4042-a62a-448f-a6e4-b06daba5f63e:3bd172978aa74fc687a4b5cef3570c18
+[I 15:57:13.364 NotebookApp] Saving file at /3_PID.ipynb
+[I 15:59:12.306 NotebookApp] Saving file at /3_PID.ipynb
+[I 16:01:10.046 NotebookApp] Saving file at /3_PID.ipynb
+[I 16:03:10.049 NotebookApp] Saving file at /3_PID.ipynb
+[I 16:05:10.049 NotebookApp] Saving file at /3_PID.ipynb
+[I 16:07:09.861 NotebookApp] Saving file at /3_PID.ipynb
+[I 16:09:10.641 NotebookApp] Saving file at /3_PID.ipynb
+[I 16:10:25.958 NotebookApp] 302 GET / (139.162.83.10) 0.74ms
+[I 16:11:07.423 NotebookApp] Saving file at /3_PID.ipynb
+[I 16:13:10.701 NotebookApp] Saving file at /3_PID.ipynb
+[I 16:16:08.391 NotebookApp] Starting buffering for d55f4042-a62a-448f-a6e4-b06daba5f63e:3bd172978aa74fc687a4b5cef3570c18
+[I 16:16:09.388 NotebookApp] Kernel shutdown: d55f4042-a62a-448f-a6e4-b06daba5f63e
+[I 16:17:20.440 NotebookApp] Kernel started: dda73b71-e925-4827-b5fc-d2a0918014bf
+[W 16:17:41.906 NotebookApp] Replacing stale connection: dda73b71-e925-4827-b5fc-d2a0918014bf:677fd060871d42588065578b11b0927c
+[I 16:17:50.957 NotebookApp] Adapting to protocol v5.1 for kernel dda73b71-e925-4827-b5fc-d2a0918014bf
+[I 16:17:51.096 NotebookApp] Starting buffering for dda73b71-e925-4827-b5fc-d2a0918014bf:677fd060871d42588065578b11b0927c
+[I 16:17:51.097 NotebookApp] Adapting to protocol v5.1 for kernel dda73b71-e925-4827-b5fc-d2a0918014bf
+[I 16:17:51.097 NotebookApp] Restoring connection for dda73b71-e925-4827-b5fc-d2a0918014bf:677fd060871d42588065578b11b0927c
+[I 16:19:24.617 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 16:53:24.697 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 16:55:21.938 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 16:57:24.585 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:03:24.663 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:05:25.009 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:07:24.666 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:09:24.392 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:10:55.185 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:11:02.636 NotebookApp] Starting buffering for dda73b71-e925-4827-b5fc-d2a0918014bf:677fd060871d42588065578b11b0927c
+[I 18:11:03.252 NotebookApp] Kernel restarted: dda73b71-e925-4827-b5fc-d2a0918014bf
+[I 18:11:04.145 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:11:05.034 NotebookApp] Adapting to protocol v5.1 for kernel dda73b71-e925-4827-b5fc-d2a0918014bf
+[I 18:11:05.034 NotebookApp] Restoring connection for dda73b71-e925-4827-b5fc-d2a0918014bf:677fd060871d42588065578b11b0927c
+[I 18:11:05.035 NotebookApp] Replaying 10 buffered messages
+[I 18:11:05.780 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:11:05.831 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:12:34.299 NotebookApp] 302 GET / (209.17.97.18) 1.07ms
+[I 18:13:25.220 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:19:22.445 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:21:24.857 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:23:26.795 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:25:24.824 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:27:26.246 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:29:24.955 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:39:25.092 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:41:25.217 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:43:32.361 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:45:26.089 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:47:24.988 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 18:49:23.836 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[W 18:52:32.510 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 2.14ms referer=None
+[I 19:27:27.110 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 19:29:23.702 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 19:31:25.027 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 19:33:25.885 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 19:37:25.405 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 19:39:28.046 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 19:41:24.270 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 19:43:25.984 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 19:45:25.953 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 19:45:42.274 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 19:47:26.963 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 19:49:26.147 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 20:04:56.278 NotebookApp] Starting buffering for dda73b71-e925-4827-b5fc-d2a0918014bf:677fd060871d42588065578b11b0927c
+[I 20:04:57.045 NotebookApp] Kernel restarted: dda73b71-e925-4827-b5fc-d2a0918014bf
+[I 20:04:58.621 NotebookApp] Adapting to protocol v5.1 for kernel dda73b71-e925-4827-b5fc-d2a0918014bf
+[I 20:04:58.622 NotebookApp] Restoring connection for dda73b71-e925-4827-b5fc-d2a0918014bf:677fd060871d42588065578b11b0927c
+[I 20:04:58.622 NotebookApp] Replaying 10 buffered messages
+[I 20:05:21.877 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 20:06:46.102 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 20:06:53.670 NotebookApp] Starting buffering for dda73b71-e925-4827-b5fc-d2a0918014bf:677fd060871d42588065578b11b0927c
+[I 20:06:54.736 NotebookApp] Kernel shutdown: dda73b71-e925-4827-b5fc-d2a0918014bf
+[I 20:06:55.102 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 20:06:55.208 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 20:06:55.860 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[W 03:26:26.071 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 2.44ms referer=None
+[I 04:15:31.187 NotebookApp] 302 GET / (45.56.79.13) 0.80ms
+[I 04:19:41.474 NotebookApp] 302 GET / (139.162.172.212) 0.71ms
+[I 16:50:15.798 NotebookApp] 302 GET / (209.17.97.98) 0.65ms
+[I 23:07:32.757 NotebookApp] 302 GET / (117.50.6.201) 0.69ms
+[I 23:07:33.694 NotebookApp] 302 GET / (106.75.85.117) 0.64ms
+[I 23:07:34.165 NotebookApp] 302 GET /tree? (106.75.85.117) 0.90ms
+[I 04:16:45.548 NotebookApp] 302 GET / (196.52.43.58) 0.73ms
+[I 06:02:40.207 NotebookApp] 302 GET / (172.105.238.87) 0.86ms
+[W 07:33:13.820 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155807839307501&a=PC&i=575322592&p=8888 (5.178.86.75): '_xsrf' argument missing from POST
+[W 07:33:13.822 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155807839307501&a=PC&i=575322592&p=8888 (5.178.86.75) 2.34ms referer=https://best-proxies.ru/
+[I 07:33:13.822 NotebookApp] Malformed HTTP message from 5.178.86.75: Malformed HTTP request line
+[W 07:33:19.054 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (5.178.86.78) 1.61ms referer=None
+[W 13:19:34.683 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=155809917415&a=PSCMN&i=575322592&p=8888 (95.213.177.124): '_xsrf' argument missing from POST
+[W 13:19:34.685 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=155809917415&a=PSCMN&i=575322592&p=8888 (95.213.177.124) 2.18ms referer=https://proxyradar.com/
+[I 13:19:34.685 NotebookApp] Malformed HTTP message from 95.213.177.124: Malformed HTTP request line
+[I 18:50:44.329 NotebookApp] 302 GET / (209.17.96.34) 0.70ms
+[W 20:21:26.434 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=155812448663&a=PSCMN&i=575322592&p=8888 (95.213.177.123): '_xsrf' argument missing from POST
+[W 20:21:26.436 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=155812448663&a=PSCMN&i=575322592&p=8888 (95.213.177.123) 2.49ms referer=https://proxyradar.com/
+[I 20:21:26.436 NotebookApp] Malformed HTTP message from 95.213.177.123: Malformed HTTP request line
+[W 07:31:36.137 NotebookApp] Notebook Reinforced_learning.ipynb is not trusted
+[I 07:31:40.918 NotebookApp] Kernel started: 2f9349cd-6f1d-42bc-9e55-8de79f2a572b
+[W 07:32:02.891 NotebookApp] Replacing stale connection: 2f9349cd-6f1d-42bc-9e55-8de79f2a572b:1aa50cddd878414cb55522db14d724c3
+[W 07:32:24.770 NotebookApp] Replacing stale connection: 2f9349cd-6f1d-42bc-9e55-8de79f2a572b:1aa50cddd878414cb55522db14d724c3
+[W 07:32:34.287 NotebookApp] Notebook Reinforced_learning.ipynb is not trusted
+[W 07:32:41.800 NotebookApp] Timeout waiting for kernel_info reply from 2f9349cd-6f1d-42bc-9e55-8de79f2a572b
+[I 07:32:42.116 NotebookApp] Starting buffering for 2f9349cd-6f1d-42bc-9e55-8de79f2a572b:1aa50cddd878414cb55522db14d724c3
+[I 07:32:42.118 NotebookApp] Restoring connection for 2f9349cd-6f1d-42bc-9e55-8de79f2a572b:1aa50cddd878414cb55522db14d724c3
+[I 07:32:47.077 NotebookApp] Creating new notebook in 
+[I 07:32:50.331 NotebookApp] Kernel started: fa7eecfc-379b-4e0a-be63-72b2a1d43dc3
+[W 07:33:12.267 NotebookApp] Replacing stale connection: fa7eecfc-379b-4e0a-be63-72b2a1d43dc3:57373fb312014013876c7719f4ed647d
+[I 07:33:13.061 NotebookApp] Adapting to protocol v5.1 for kernel 2f9349cd-6f1d-42bc-9e55-8de79f2a572b
+[I 07:33:13.081 NotebookApp] Adapting to protocol v5.1 for kernel fa7eecfc-379b-4e0a-be63-72b2a1d43dc3
+[I 07:33:13.515 NotebookApp] Starting buffering for fa7eecfc-379b-4e0a-be63-72b2a1d43dc3:57373fb312014013876c7719f4ed647d
+[I 07:33:13.516 NotebookApp] Adapting to protocol v5.1 for kernel fa7eecfc-379b-4e0a-be63-72b2a1d43dc3
+[I 07:33:13.516 NotebookApp] Restoring connection for fa7eecfc-379b-4e0a-be63-72b2a1d43dc3:57373fb312014013876c7719f4ed647d
+[I 07:35:05.051 NotebookApp] Saving file at /5_Reinforced_learning.ipynb
+[I 07:37:46.277 NotebookApp] Saving file at /5_Reinforced_learning.ipynb
+[I 07:37:46.768 NotebookApp] Saving file at /Reinforced_learning.ipynb
+[W 07:37:46.768 NotebookApp] Notebook Reinforced_learning.ipynb is not trusted
+[I 07:37:53.183 NotebookApp] Saving file at /Reinforced_learning.ipynb
+[W 07:37:53.183 NotebookApp] Notebook Reinforced_learning.ipynb is not trusted
+[W 10:49:43.518 NotebookApp] WebSocket ping timeout after 119864 ms.
+[I 10:49:44.584 NotebookApp] Starting buffering for fa7eecfc-379b-4e0a-be63-72b2a1d43dc3:57373fb312014013876c7719f4ed647d
+[I 16:13:02.174 NotebookApp] Starting buffering for 2f9349cd-6f1d-42bc-9e55-8de79f2a572b:4bf42142c5264a0583141851134af1d4
+[I 19:14:16.841 NotebookApp] 302 GET / (209.17.96.74) 0.72ms
+[I 19:30:54.640 NotebookApp] 302 GET / (54.148.144.57) 0.84ms
+[W 13:55:44.942 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 2.14ms referer=None
+[W 13:55:44.962 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.63ms referer=None
+[I 14:40:48.042 NotebookApp] 302 GET / (198.108.66.224) 0.68ms
+[I 14:40:48.076 NotebookApp] 302 GET /tree? (198.108.66.224) 0.77ms
+[W 16:03:12.679 NotebookApp] Notebook Reinforced_learning.ipynb is not trusted
+[I 16:10:17.173 NotebookApp] Adapting to protocol v5.1 for kernel fa7eecfc-379b-4e0a-be63-72b2a1d43dc3
+[I 16:18:26.503 NotebookApp] Starting buffering for fa7eecfc-379b-4e0a-be63-72b2a1d43dc3:df250759055f41a084dff01b5041007a
+[I 16:18:28.989 NotebookApp] Starting buffering for 2f9349cd-6f1d-42bc-9e55-8de79f2a572b:389c726990b04b5d9dc143bb52d79f00
+[I 16:18:34.428 NotebookApp] Kernel shutdown: fa7eecfc-379b-4e0a-be63-72b2a1d43dc3
+[I 16:18:34.732 NotebookApp] Kernel shutdown: 2f9349cd-6f1d-42bc-9e55-8de79f2a572b
+[I 16:18:42.187 NotebookApp] Kernel started: 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[W 16:19:04.898 NotebookApp] Replacing stale connection: 4b50a685-8308-4b90-9ad1-6880b8e0598a:d6ff3b0298a94fae99828d8c8230ec4b
+[W 16:19:25.667 NotebookApp] Replacing stale connection: 4b50a685-8308-4b90-9ad1-6880b8e0598a:d6ff3b0298a94fae99828d8c8230ec4b
+[I 16:19:31.648 NotebookApp] Adapting to protocol v5.1 for kernel 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[I 16:19:31.788 NotebookApp] Starting buffering for 4b50a685-8308-4b90-9ad1-6880b8e0598a:d6ff3b0298a94fae99828d8c8230ec4b
+[I 16:19:31.789 NotebookApp] Adapting to protocol v5.1 for kernel 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[I 16:19:31.789 NotebookApp] Adapting to protocol v5.1 for kernel 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[I 16:19:31.790 NotebookApp] Restoring connection for 4b50a685-8308-4b90-9ad1-6880b8e0598a:d6ff3b0298a94fae99828d8c8230ec4b
+[W 17:01:31.793 NotebookApp] WebSocket ping timeout after 119853 ms.
+[I 17:01:36.795 NotebookApp] Starting buffering for 4b50a685-8308-4b90-9ad1-6880b8e0598a:d6ff3b0298a94fae99828d8c8230ec4b
+[I 18:11:30.482 NotebookApp] 302 GET / (209.17.96.250) 0.74ms
+[I 04:04:25.102 NotebookApp] 302 GET / (172.105.238.87) 0.67ms
+[I 06:30:55.298 NotebookApp] Adapting to protocol v5.1 for kernel 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[I 06:30:55.299 NotebookApp] Restoring connection for 4b50a685-8308-4b90-9ad1-6880b8e0598a:d6ff3b0298a94fae99828d8c8230ec4b
+[W 06:33:30.564 NotebookApp] Notebook 4_Fuzzy_control.ipynb is not trusted
+[I 06:33:38.704 NotebookApp] Kernel started: d28b6632-b0e9-4da5-aca2-cbdeaf997e47
+[I 06:33:39.827 NotebookApp] Adapting to protocol v5.1 for kernel d28b6632-b0e9-4da5-aca2-cbdeaf997e47
+[W 07:08:25.301 NotebookApp] WebSocket ping timeout after 119784 ms.
+[I 07:08:30.303 NotebookApp] Starting buffering for 4b50a685-8308-4b90-9ad1-6880b8e0598a:d6ff3b0298a94fae99828d8c8230ec4b
+[W 07:08:39.830 NotebookApp] WebSocket ping timeout after 119553 ms.
+[I 07:08:44.832 NotebookApp] Starting buffering for d28b6632-b0e9-4da5-aca2-cbdeaf997e47:90bf4c52d659411f8ab4ce3d1c8cf945
+[I 08:07:22.890 NotebookApp] Adapting to protocol v5.1 for kernel d28b6632-b0e9-4da5-aca2-cbdeaf997e47
+[I 08:07:22.890 NotebookApp] Restoring connection for d28b6632-b0e9-4da5-aca2-cbdeaf997e47:90bf4c52d659411f8ab4ce3d1c8cf945
+[I 08:07:29.730 NotebookApp] Adapting to protocol v5.1 for kernel 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[I 08:07:29.731 NotebookApp] Restoring connection for 4b50a685-8308-4b90-9ad1-6880b8e0598a:d6ff3b0298a94fae99828d8c8230ec4b
+[W 08:10:29.731 NotebookApp] WebSocket ping timeout after 119671 ms.
+[I 08:10:34.734 NotebookApp] Starting buffering for 4b50a685-8308-4b90-9ad1-6880b8e0598a:d6ff3b0298a94fae99828d8c8230ec4b
+[W 08:10:52.893 NotebookApp] WebSocket ping timeout after 117452 ms.
+[I 08:10:57.895 NotebookApp] Starting buffering for d28b6632-b0e9-4da5-aca2-cbdeaf997e47:90bf4c52d659411f8ab4ce3d1c8cf945
+[I 08:51:35.969 NotebookApp] Adapting to protocol v5.1 for kernel d28b6632-b0e9-4da5-aca2-cbdeaf997e47
+[I 08:51:35.970 NotebookApp] Restoring connection for d28b6632-b0e9-4da5-aca2-cbdeaf997e47:90bf4c52d659411f8ab4ce3d1c8cf945
+[I 08:51:37.721 NotebookApp] Adapting to protocol v5.1 for kernel 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[I 08:51:37.721 NotebookApp] Restoring connection for 4b50a685-8308-4b90-9ad1-6880b8e0598a:d6ff3b0298a94fae99828d8c8230ec4b
+[W 09:02:35.972 NotebookApp] WebSocket ping timeout after 119468 ms.
+[W 09:02:37.724 NotebookApp] WebSocket ping timeout after 119229 ms.
+[I 09:02:40.976 NotebookApp] Starting buffering for d28b6632-b0e9-4da5-aca2-cbdeaf997e47:90bf4c52d659411f8ab4ce3d1c8cf945
+[I 09:02:42.725 NotebookApp] Starting buffering for 4b50a685-8308-4b90-9ad1-6880b8e0598a:d6ff3b0298a94fae99828d8c8230ec4b
+[I 10:31:43.442 NotebookApp] Adapting to protocol v5.1 for kernel 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[I 10:31:43.443 NotebookApp] Restoring connection for 4b50a685-8308-4b90-9ad1-6880b8e0598a:d6ff3b0298a94fae99828d8c8230ec4b
+[W 11:17:13.445 NotebookApp] WebSocket ping timeout after 119829 ms.
+[I 11:17:18.446 NotebookApp] Starting buffering for 4b50a685-8308-4b90-9ad1-6880b8e0598a:d6ff3b0298a94fae99828d8c8230ec4b
+[I 11:25:25.003 NotebookApp] Adapting to protocol v5.1 for kernel 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[I 11:25:25.004 NotebookApp] Restoring connection for 4b50a685-8308-4b90-9ad1-6880b8e0598a:d6ff3b0298a94fae99828d8c8230ec4b
+[W 11:58:55.007 NotebookApp] WebSocket ping timeout after 119783 ms.
+[I 11:59:00.009 NotebookApp] Starting buffering for 4b50a685-8308-4b90-9ad1-6880b8e0598a:d6ff3b0298a94fae99828d8c8230ec4b
+[I 22:06:49.215 NotebookApp] 302 GET / (209.17.96.74) 0.97ms
+[I 02:14:06.620 NotebookApp] 302 GET / (139.162.83.10) 0.67ms
+[I 19:01:35.600 NotebookApp] 302 GET / (209.17.97.18) 0.70ms
+[I 20:18:24.213 NotebookApp] 302 GET / (185.173.35.33) 0.69ms
+[I 23:57:15.808 NotebookApp] 302 GET / (122.228.19.80) 0.75ms
+[I 23:57:16.415 NotebookApp] 302 GET /tree? (122.228.19.80) 1.02ms
+[I 02:04:01.989 NotebookApp] 302 GET / (139.162.83.10) 0.78ms
+[I 14:14:17.757 NotebookApp] Adapting to protocol v5.1 for kernel 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[I 14:16:19.415 NotebookApp] Saving file at /3_PID.ipynb
+[I 16:47:11.016 NotebookApp] 302 GET / (209.17.96.146) 0.77ms
+[W 16:49:17.825 NotebookApp] Notebook 4_Fuzzy_control.ipynb is not trusted
+[I 16:49:25.360 NotebookApp] Adapting to protocol v5.1 for kernel d28b6632-b0e9-4da5-aca2-cbdeaf997e47
+[I 16:49:39.849 NotebookApp] Kernel started: 63bc582e-8001-4412-9e8e-05e1e35561a7
+[W 16:50:01.800 NotebookApp] Replacing stale connection: 63bc582e-8001-4412-9e8e-05e1e35561a7:381b6d803fd3412f8c72f806068ec778
+[W 16:50:24.618 NotebookApp] Replacing stale connection: 63bc582e-8001-4412-9e8e-05e1e35561a7:381b6d803fd3412f8c72f806068ec778
+[W 16:50:40.800 NotebookApp] Timeout waiting for kernel_info reply from 63bc582e-8001-4412-9e8e-05e1e35561a7
+[I 16:50:41.237 NotebookApp] Starting buffering for 63bc582e-8001-4412-9e8e-05e1e35561a7:381b6d803fd3412f8c72f806068ec778
+[I 16:50:41.239 NotebookApp] Restoring connection for 63bc582e-8001-4412-9e8e-05e1e35561a7:381b6d803fd3412f8c72f806068ec778
+[I 16:51:08.211 NotebookApp] Adapting to protocol v5.1 for kernel 63bc582e-8001-4412-9e8e-05e1e35561a7
+[I 17:14:19.577 NotebookApp] Saving file at /3_PID.ipynb
+[I 18:00:20.604 NotebookApp] Saving file at /3_PID.ipynb
+[I 19:06:24.551 NotebookApp] Saving file at /3_PID.ipynb
+[I 19:08:23.377 NotebookApp] Saving file at /3_PID.ipynb
+[I 20:55:22.786 NotebookApp] Starting buffering for d28b6632-b0e9-4da5-aca2-cbdeaf997e47:cf41005404da41049fce084f053de36d
+[I 20:55:24.607 NotebookApp] Adapting to protocol v5.1 for kernel d28b6632-b0e9-4da5-aca2-cbdeaf997e47
+[I 20:55:24.608 NotebookApp] Restoring connection for d28b6632-b0e9-4da5-aca2-cbdeaf997e47:cf41005404da41049fce084f053de36d
+[W 20:55:25.262 NotebookApp] Replacing stale connection: 63bc582e-8001-4412-9e8e-05e1e35561a7:381b6d803fd3412f8c72f806068ec778
+[I 20:55:26.102 NotebookApp] Starting buffering for 4b50a685-8308-4b90-9ad1-6880b8e0598a:326fe8b6408348ebae814ade8ecb7ff2
+[I 20:55:26.392 NotebookApp] Starting buffering for 63bc582e-8001-4412-9e8e-05e1e35561a7:381b6d803fd3412f8c72f806068ec778
+[I 20:55:26.394 NotebookApp] Restoring connection for 63bc582e-8001-4412-9e8e-05e1e35561a7:381b6d803fd3412f8c72f806068ec778
+[I 20:55:27.894 NotebookApp] Adapting to protocol v5.1 for kernel 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[I 20:55:27.896 NotebookApp] Restoring connection for 4b50a685-8308-4b90-9ad1-6880b8e0598a:326fe8b6408348ebae814ade8ecb7ff2
+[I 21:21:23.589 NotebookApp] Starting buffering for 63bc582e-8001-4412-9e8e-05e1e35561a7:381b6d803fd3412f8c72f806068ec778
+[I 21:21:24.880 NotebookApp] Kernel shutdown: 63bc582e-8001-4412-9e8e-05e1e35561a7
+[I 21:21:30.395 NotebookApp] Starting buffering for d28b6632-b0e9-4da5-aca2-cbdeaf997e47:cf41005404da41049fce084f053de36d
+[I 21:21:30.719 NotebookApp] Kernel shutdown: d28b6632-b0e9-4da5-aca2-cbdeaf997e47
+[I 22:10:46.315 NotebookApp] Starting buffering for 4b50a685-8308-4b90-9ad1-6880b8e0598a:326fe8b6408348ebae814ade8ecb7ff2
+[I 02:58:45.572 NotebookApp] 302 GET / (80.82.77.33) 0.72ms
+[I 02:58:45.779 NotebookApp] 302 GET /tree (80.82.77.33) 0.88ms
+[I 00:54:24.795 NotebookApp] 302 GET / (209.17.96.2) 0.75ms
+[I 04:40:52.411 NotebookApp] 302 GET / (172.105.238.87) 0.74ms
+[I 08:22:04.835 NotebookApp] Adapting to protocol v5.1 for kernel 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[I 08:24:07.974 NotebookApp] Saving file at /3_PID.ipynb
+[I 08:26:07.958 NotebookApp] Saving file at /3_PID.ipynb
+[I 08:28:08.079 NotebookApp] Saving file at /3_PID.ipynb
+[I 08:44:08.297 NotebookApp] Saving file at /3_PID.ipynb
+[I 08:46:08.295 NotebookApp] Saving file at /3_PID.ipynb
+[I 08:48:08.349 NotebookApp] Saving file at /3_PID.ipynb
+[I 08:50:08.297 NotebookApp] Saving file at /3_PID.ipynb
+[I 08:52:08.582 NotebookApp] Saving file at /3_PID.ipynb
+[I 08:54:08.557 NotebookApp] Saving file at /3_PID.ipynb
+[I 08:56:08.453 NotebookApp] Saving file at /3_PID.ipynb
+[I 08:58:08.486 NotebookApp] Saving file at /3_PID.ipynb
+[I 09:00:10.787 NotebookApp] Saving file at /3_PID.ipynb
+[I 09:02:10.154 NotebookApp] Saving file at /3_PID.ipynb
+[I 09:04:10.379 NotebookApp] Saving file at /3_PID.ipynb
+[I 09:14:11.934 NotebookApp] Saving file at /3_PID.ipynb
+[I 09:16:10.889 NotebookApp] Saving file at /3_PID.ipynb
+[I 09:20:12.720 NotebookApp] Saving file at /3_PID.ipynb
+[I 09:22:11.923 NotebookApp] Saving file at /3_PID.ipynb
+[I 09:24:13.282 NotebookApp] Saving file at /3_PID.ipynb
+[I 09:54:13.503 NotebookApp] Saving file at /3_PID.ipynb
+[I 09:56:14.364 NotebookApp] Saving file at /3_PID.ipynb
+[I 09:58:13.415 NotebookApp] Saving file at /3_PID.ipynb
+[I 09:59:39.025 NotebookApp] Kernel interrupted: 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[I 10:00:12.677 NotebookApp] Saving file at /3_PID.ipynb
+[I 10:02:18.057 NotebookApp] Saving file at /3_PID.ipynb
+[I 10:04:47.983 NotebookApp] Saving file at /3_PID.ipynb
+[I 10:09:27.768 NotebookApp] Saving file at /3_PID.ipynb
+[W 10:11:34.102 NotebookApp] Notebook 4_Fuzzy_control.ipynb is not trusted
+[I 10:11:35.999 NotebookApp] Kernel started: 705fa38a-c332-45c4-9b72-d0ec3f555550
+[I 10:11:37.203 NotebookApp] Adapting to protocol v5.1 for kernel 705fa38a-c332-45c4-9b72-d0ec3f555550
+[I 10:14:08.087 NotebookApp] Saving file at /3_PID.ipynb
+[I 11:31:20.875 NotebookApp] 302 GET / (139.162.83.10) 0.89ms
+[I 11:52:08.965 NotebookApp] Saving file at /3_PID.ipynb
+[I 11:53:02.730 NotebookApp] Kernel interrupted: 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[I 11:54:32.881 NotebookApp] Saving file at /3_PID.ipynb
+[I 11:57:13.693 NotebookApp] Saving file at /3_PID.ipynb
+[I 11:59:43.250 NotebookApp] Saving file at /3_PID.ipynb
+[I 12:32:14.242 NotebookApp] Saving file at /3_PID.ipynb
+[I 12:32:49.224 NotebookApp] Kernel interrupted: 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[I 12:34:44.211 NotebookApp] Saving file at /3_PID.ipynb
+[I 12:37:14.830 NotebookApp] Saving file at /3_PID.ipynb
+[I 12:42:14.505 NotebookApp] Saving file at /3_PID.ipynb
+[I 12:44:47.122 NotebookApp] Saving file at /3_PID.ipynb
+[I 13:09:45.851 NotebookApp] Saving file at /3_PID.ipynb
+[I 13:12:15.936 NotebookApp] Saving file at /3_PID.ipynb
+[I 13:14:45.153 NotebookApp] Saving file at /3_PID.ipynb
+[I 13:32:17.414 NotebookApp] Saving file at /3_PID.ipynb
+[I 13:34:47.322 NotebookApp] Saving file at /3_PID.ipynb
+[I 13:37:17.048 NotebookApp] Saving file at /3_PID.ipynb
+[I 13:39:47.236 NotebookApp] Saving file at /3_PID.ipynb
+[I 13:42:20.271 NotebookApp] Saving file at /3_PID.ipynb
+[I 13:51:04.696 NotebookApp] Saving file at /3_PID.ipynb
+[I 13:53:53.452 NotebookApp] Saving file at /3_PID.ipynb
+[I 14:13:44.829 NotebookApp] Saving file at /3_PID.ipynb
+[I 14:19:27.269 NotebookApp] Saving file at /3_PID.ipynb
+[I 14:30:47.942 NotebookApp] Saving file at /3_PID.ipynb
+[I 14:34:03.164 NotebookApp] Saving file at /3_PID.ipynb
+[I 15:19:04.133 NotebookApp] Saving file at /3_PID.ipynb
+[I 15:22:04.682 NotebookApp] Saving file at /3_PID.ipynb
+[I 16:19:05.043 NotebookApp] Saving file at /3_PID.ipynb
+[I 16:22:04.294 NotebookApp] Saving file at /3_PID.ipynb
+[I 16:25:08.196 NotebookApp] Saving file at /3_PID.ipynb
+[I 16:28:56.639 NotebookApp] Saving file at /3_PID.ipynb
+[I 16:39:28.275 NotebookApp] Saving file at /3_PID.ipynb
+[I 16:42:56.350 NotebookApp] Saving file at /3_PID.ipynb
+[I 18:12:34.617 NotebookApp] Starting buffering for 4b50a685-8308-4b90-9ad1-6880b8e0598a:186684ae9240432692368fa290420609
+[I 18:12:35.661 NotebookApp] Kernel shutdown: 4b50a685-8308-4b90-9ad1-6880b8e0598a
+[I 19:26:48.674 NotebookApp] 302 GET / (209.17.96.82) 0.75ms
+[W 21:38:07.206 NotebookApp] WebSocket ping timeout after 119862 ms.
+[I 21:38:12.209 NotebookApp] Starting buffering for 705fa38a-c332-45c4-9b72-d0ec3f555550:99152da73edc439585eae80a66fd9de4
+[I 03:56:14.507 NotebookApp] 302 GET / (92.118.160.25) 0.71ms
+[I 06:42:00.037 NotebookApp] Adapting to protocol v5.1 for kernel 705fa38a-c332-45c4-9b72-d0ec3f555550
+[I 06:42:00.038 NotebookApp] Restoring connection for 705fa38a-c332-45c4-9b72-d0ec3f555550:99152da73edc439585eae80a66fd9de4
+[W 09:18:10.156 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.80ms referer=None
+[W 09:18:28.012 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.73ms referer=None
+[W 09:21:54.943 NotebookApp] 404 HEAD http://123.125.114.144/ (182.138.214.242) 2.41ms referer=None
+[W 15:11:00.039 NotebookApp] WebSocket ping timeout after 119775 ms.
+[I 15:11:05.042 NotebookApp] Starting buffering for 705fa38a-c332-45c4-9b72-d0ec3f555550:99152da73edc439585eae80a66fd9de4
+[I 17:08:44.406 NotebookApp] 302 GET / (209.17.96.42) 0.76ms
+[I 09:14:49.150 NotebookApp] 302 GET / (198.108.66.32) 0.64ms
+[I 09:14:49.185 NotebookApp] 302 GET /tree? (198.108.66.32) 0.70ms
+[W 12:32:48.187 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.75ms referer=None
+[I 17:35:47.105 NotebookApp] Adapting to protocol v5.1 for kernel 705fa38a-c332-45c4-9b72-d0ec3f555550
+[I 17:35:47.106 NotebookApp] Restoring connection for 705fa38a-c332-45c4-9b72-d0ec3f555550:99152da73edc439585eae80a66fd9de4
+[W 21:21:27.526 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.71ms referer=None
+[I 21:26:37.475 NotebookApp] 302 GET / (209.17.97.122) 0.78ms
+[W 22:10:47.109 NotebookApp] WebSocket ping timeout after 119230 ms.
+[I 22:10:52.112 NotebookApp] Starting buffering for 705fa38a-c332-45c4-9b72-d0ec3f555550:99152da73edc439585eae80a66fd9de4
+[I 00:14:48.864 NotebookApp] 302 GET / (172.105.238.87) 0.70ms
+[W 06:05:25.762 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.74ms referer=None
+[I 19:25:50.554 NotebookApp] Adapting to protocol v5.1 for kernel 705fa38a-c332-45c4-9b72-d0ec3f555550
+[I 19:25:50.554 NotebookApp] Restoring connection for 705fa38a-c332-45c4-9b72-d0ec3f555550:99152da73edc439585eae80a66fd9de4
+[W 22:25:20.555 NotebookApp] WebSocket ping timeout after 119859 ms.
+[I 22:25:25.558 NotebookApp] Starting buffering for 705fa38a-c332-45c4-9b72-d0ec3f555550:99152da73edc439585eae80a66fd9de4
+[I 22:42:41.075 NotebookApp] 302 GET / (106.75.65.85) 0.81ms
+[I 00:58:59.620 NotebookApp] 302 GET / (209.17.96.74) 0.69ms
+[I 10:42:21.819 NotebookApp] 302 GET / (172.105.238.87) 0.77ms
+[W 16:24:01.413 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 2.39ms referer=None
+[I 16:34:16.339 NotebookApp] Adapting to protocol v5.1 for kernel 705fa38a-c332-45c4-9b72-d0ec3f555550
+[I 16:34:16.340 NotebookApp] Restoring connection for 705fa38a-c332-45c4-9b72-d0ec3f555550:99152da73edc439585eae80a66fd9de4
+[I 19:02:29.113 NotebookApp] 302 GET / (209.17.96.18) 0.72ms
+[W 20:01:58.690 NotebookApp] 404 HEAD http://123.125.114.144/ (171.34.179.246) 2.34ms referer=None
+[I 20:03:33.306 NotebookApp] 302 GET / (125.64.94.221) 0.75ms
+[I 20:03:34.368 NotebookApp] 302 GET /tree (125.64.94.221) 0.72ms
+[W 20:43:46.342 NotebookApp] WebSocket ping timeout after 119862 ms.
+[I 20:43:51.343 NotebookApp] Starting buffering for 705fa38a-c332-45c4-9b72-d0ec3f555550:99152da73edc439585eae80a66fd9de4
+[I 21:01:50.636 NotebookApp] 302 GET / (196.52.43.60) 0.78ms
+[I 22:41:26.793 NotebookApp] 302 GET / (139.162.83.10) 0.70ms
+[I 17:37:24.843 NotebookApp] 302 GET / (69.175.97.170) 0.67ms
+[I 17:37:24.881 NotebookApp] 302 GET /tree? (69.175.97.170) 0.75ms
+[I 18:01:17.482 NotebookApp] Adapting to protocol v5.1 for kernel 705fa38a-c332-45c4-9b72-d0ec3f555550
+[I 18:01:17.483 NotebookApp] Restoring connection for 705fa38a-c332-45c4-9b72-d0ec3f555550:99152da73edc439585eae80a66fd9de4
+[I 18:59:59.921 NotebookApp] 302 GET / (209.17.97.42) 0.86ms
+[I 20:15:04.345 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 20:17:08.204 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 20:19:13.523 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 21:07:10.424 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 21:09:09.935 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 21:11:11.180 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 21:13:11.587 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 21:15:10.606 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 21:17:10.926 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 21:19:12.028 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 21:21:12.535 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 21:27:12.045 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 21:29:14.395 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 21:55:29.094 NotebookApp] Kernel started: 16319816-72a2-41e3-b413-a932fe757734
+[I 21:55:30.372 NotebookApp] Adapting to protocol v5.1 for kernel 16319816-72a2-41e3-b413-a932fe757734
+[I 21:57:11.802 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 21:59:14.442 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 22:01:10.147 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 22:03:17.090 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 22:05:36.570 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 22:09:55.987 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 22:12:06.864 NotebookApp] Saving file at /4_Fuzzy_control.ipynb
+[I 23:05:35.296 NotebookApp] Starting buffering for 705fa38a-c332-45c4-9b72-d0ec3f555550:99152da73edc439585eae80a66fd9de4
+[I 23:05:36.242 NotebookApp] Kernel shutdown: 705fa38a-c332-45c4-9b72-d0ec3f555550
+[I 23:05:43.615 NotebookApp] Starting buffering for 16319816-72a2-41e3-b413-a932fe757734:cc0045227b3747ac8e54549dc23a14b7
+[I 23:05:43.948 NotebookApp] Kernel shutdown: 16319816-72a2-41e3-b413-a932fe757734
+[W 02:35:33.860 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 2.04ms referer=None
+[I 08:25:46.432 NotebookApp] 302 GET / (183.129.160.229) 0.67ms
+[W 13:02:09.679 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155922132959631&a=PC&i=575322592&p=8888 (109.234.153.132): '_xsrf' argument missing from POST
+[W 13:02:09.680 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155922132959631&a=PC&i=575322592&p=8888 (109.234.153.132) 2.43ms referer=https://best-proxies.ru/
+[I 13:02:09.681 NotebookApp] Malformed HTTP message from 109.234.153.132: Malformed HTTP request line
+[W 13:02:14.865 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.133) 1.59ms referer=None
+[W 17:10:07.343 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155923620773623&a=PC&i=575322592&p=8888 (109.234.153.134): '_xsrf' argument missing from POST
+[W 17:10:07.344 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155923620773623&a=PC&i=575322592&p=8888 (109.234.153.134) 2.45ms referer=https://best-proxies.ru/
+[I 17:10:07.345 NotebookApp] Malformed HTTP message from 109.234.153.134: Malformed HTTP request line
+[W 17:10:12.606 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.133) 1.50ms referer=None
+[W 17:17:35.972 NotebookApp] 404 GET http://httpheader.net/ (47.205.52.254) 1.85ms referer=None
+[I 18:00:25.722 NotebookApp] 302 GET / (209.17.96.138) 0.73ms
+[I 19:17:15.334 NotebookApp] 302 GET / (139.162.83.10) 0.73ms
+[W 21:53:23.931 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155925320367660&a=PC&i=575322592&p=8888 (5.178.86.76): '_xsrf' argument missing from POST
+[W 21:53:23.932 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155925320367660&a=PC&i=575322592&p=8888 (5.178.86.76) 2.38ms referer=https://best-proxies.ru/
+[I 21:53:23.933 NotebookApp] Malformed HTTP message from 5.178.86.76: Malformed HTTP request line
+[W 21:53:29.221 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (5.178.86.74) 1.61ms referer=None
+[W 04:12:19.566 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.96ms referer=None
+[I 04:40:03.167 NotebookApp] 302 GET / (92.118.160.61) 0.77ms
+[W 06:37:34.208 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155928465413890&a=PC&i=575322592&p=8888 (5.178.86.74): '_xsrf' argument missing from POST
+[W 06:37:34.210 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155928465413890&a=PC&i=575322592&p=8888 (5.178.86.74) 2.31ms referer=https://best-proxies.ru/
+[I 06:37:34.210 NotebookApp] Malformed HTTP message from 5.178.86.74: Malformed HTTP request line
+[W 06:37:39.148 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (5.178.86.75) 1.50ms referer=None
+[W 12:49:38.183 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.64ms referer=None
+[W 12:49:58.384 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.55ms referer=None
+[I 16:49:28.102 NotebookApp] 302 GET / (209.17.96.58) 0.69ms
+[W 17:34:18.324 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155932405875853&a=PC&i=575322592&p=8888 (5.178.86.78): '_xsrf' argument missing from POST
+[W 17:34:18.325 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155932405875853&a=PC&i=575322592&p=8888 (5.178.86.78) 2.08ms referer=https://best-proxies.ru/
+[I 17:34:18.326 NotebookApp] Malformed HTTP message from 5.178.86.78: Malformed HTTP request line
+[W 17:34:23.543 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (5.178.86.76) 1.66ms referer=None
+[W 19:19:12.122 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=155933035271&a=PSCMN&i=575322592&p=8888 (95.213.177.126): '_xsrf' argument missing from POST
+[W 19:19:12.124 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=155933035271&a=PSCMN&i=575322592&p=8888 (95.213.177.126) 2.35ms referer=https://proxyradar.com/
+[I 19:19:12.124 NotebookApp] Malformed HTTP message from 95.213.177.126: Malformed HTTP request line
+[W 21:25:36.218 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.64ms referer=None
+[W 21:25:56.102 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.49ms referer=None
+[I 02:05:15.658 NotebookApp] 302 GET / (54.244.109.43) 0.69ms
+[W 06:31:35.358 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.71ms referer=None
+[W 09:16:00.594 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155938056099436&a=PC&i=575322592&p=8888 (5.178.86.78): '_xsrf' argument missing from POST
+[W 09:16:00.596 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155938056099436&a=PC&i=575322592&p=8888 (5.178.86.78) 2.40ms referer=https://best-proxies.ru/
+[I 09:16:00.596 NotebookApp] Malformed HTTP message from 5.178.86.78: Malformed HTTP request line
+[W 09:16:05.720 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (5.178.86.78) 1.60ms referer=None
+[I 13:05:14.974 NotebookApp] 302 GET / (183.129.160.229) 0.74ms
+[I 14:55:00.165 NotebookApp] 302 GET / (172.105.238.87) 0.80ms
+[W 16:23:45.853 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.67ms referer=None
+[I 21:12:09.160 NotebookApp] 302 GET / (209.17.96.130) 0.70ms
+[W 23:22:13.125 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155943133379580&a=PC&i=575322592&p=8888 (95.213.187.189): '_xsrf' argument missing from POST
+[W 23:22:13.127 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155943133379580&a=PC&i=575322592&p=8888 (95.213.187.189) 2.52ms referer=https://best-proxies.ru/
+[I 23:22:13.127 NotebookApp] Malformed HTTP message from 95.213.187.189: Malformed HTTP request line
+[W 23:22:18.424 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.187) 1.59ms referer=None
+[I 03:54:34.495 NotebookApp] 302 GET / (198.108.66.32) 0.68ms
+[I 03:54:34.530 NotebookApp] 302 GET /tree? (198.108.66.32) 0.73ms
+[W 05:10:03.566 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.71ms referer=None
+[W 08:09:14.684 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155946295421242&a=PC&i=575322592&p=8888 (95.213.187.187): '_xsrf' argument missing from POST
+[W 08:09:14.685 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155946295421242&a=PC&i=575322592&p=8888 (95.213.187.187) 2.42ms referer=https://best-proxies.ru/
+[I 08:09:14.686 NotebookApp] Malformed HTTP message from 95.213.187.187: Malformed HTTP request line
+[W 08:09:19.802 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.189) 1.61ms referer=None
+[W 13:21:24.509 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155948168423774&a=PC&i=575322592&p=8888 (95.213.187.187): '_xsrf' argument missing from POST
+[W 13:21:24.511 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155948168423774&a=PC&i=575322592&p=8888 (95.213.187.187) 2.79ms referer=https://best-proxies.ru/
+[I 13:21:24.511 NotebookApp] Malformed HTTP message from 95.213.187.187: Malformed HTTP request line
+[W 13:21:29.656 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.186) 1.80ms referer=None
+[W 15:37:36.962 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155948985669718&a=PC&i=575322592&p=8888 (95.213.187.188): '_xsrf' argument missing from POST
+[W 15:37:36.963 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155948985669718&a=PC&i=575322592&p=8888 (95.213.187.188) 2.35ms referer=https://best-proxies.ru/
+[I 15:37:36.964 NotebookApp] Malformed HTTP message from 95.213.187.188: Malformed HTTP request line
+[W 15:37:42.140 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.187) 1.63ms referer=None
+[I 17:07:56.288 NotebookApp] 302 GET / (106.75.106.221) 0.71ms
+[W 17:11:21.958 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.72ms referer=None
+[I 17:33:36.580 NotebookApp] 302 GET / (209.17.96.162) 0.76ms
+[I 18:15:40.332 NotebookApp] 302 GET / (139.162.83.10) 0.77ms
+[W 19:40:29.834 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155950442985822&a=PC&i=575322592&p=8888 (109.234.153.132): '_xsrf' argument missing from POST
+[W 19:40:29.836 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155950442985822&a=PC&i=575322592&p=8888 (109.234.153.132) 2.24ms referer=https://best-proxies.ru/
+[I 19:40:29.836 NotebookApp] Malformed HTTP message from 109.234.153.132: Malformed HTTP request line
+[W 19:40:35.136 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.132) 1.55ms referer=None
+[W 06:45:05.950 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155954430595240&a=PC&i=575322592&p=8888 (109.234.153.133): '_xsrf' argument missing from POST
+[W 06:45:05.951 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155954430595240&a=PC&i=575322592&p=8888 (109.234.153.133) 2.29ms referer=https://best-proxies.ru/
+[I 06:45:05.952 NotebookApp] Malformed HTTP message from 109.234.153.133: Malformed HTTP request line
+[W 06:45:11.514 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.133) 1.65ms referer=None
+[W 08:44:27.079 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155955146719228&a=PC&i=575322592&p=8888 (109.234.153.132): '_xsrf' argument missing from POST
+[W 08:44:27.081 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155955146719228&a=PC&i=575322592&p=8888 (109.234.153.132) 2.28ms referer=https://best-proxies.ru/
+[I 08:44:27.081 NotebookApp] Malformed HTTP message from 109.234.153.132: Malformed HTTP request line
+[W 08:44:32.144 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.131) 1.54ms referer=None
+[I 10:48:07.122 NotebookApp] 302 GET / (162.243.136.110) 0.67ms
+[W 11:46:11.551 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=155956237113&a=PSCMN&i=575322592&p=8888 (95.213.177.125): '_xsrf' argument missing from POST
+[W 11:46:11.552 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=155956237113&a=PSCMN&i=575322592&p=8888 (95.213.177.125) 2.42ms referer=https://proxyradar.com/
+[I 11:46:11.553 NotebookApp] Malformed HTTP message from 95.213.177.125: Malformed HTTP request line
+[W 12:51:32.148 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155956629231260&a=PC&i=575322592&p=8888 (109.234.153.134): '_xsrf' argument missing from POST
+[W 12:51:32.149 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155956629231260&a=PC&i=575322592&p=8888 (109.234.153.134) 2.31ms referer=https://best-proxies.ru/
+[I 12:51:32.150 NotebookApp] Malformed HTTP message from 109.234.153.134: Malformed HTTP request line
+[W 12:51:37.379 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.131) 1.63ms referer=None
+[W 16:08:26.884 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155957810631631&a=PC&i=575322592&p=8888 (109.234.153.131): '_xsrf' argument missing from POST
+[W 16:08:26.886 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155957810631631&a=PC&i=575322592&p=8888 (109.234.153.131) 2.22ms referer=https://best-proxies.ru/
+[I 16:08:26.886 NotebookApp] Malformed HTTP message from 109.234.153.131: Malformed HTTP request line
+[W 16:08:32.117 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.134) 1.64ms referer=None
+[W 17:36:43.738 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=155958340315&a=PSCMN&i=575322592&p=8888 (95.213.177.124): '_xsrf' argument missing from POST
+[W 17:36:43.739 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=155958340315&a=PSCMN&i=575322592&p=8888 (95.213.177.124) 2.30ms referer=https://proxyradar.com/
+[I 17:36:43.739 NotebookApp] Malformed HTTP message from 95.213.177.124: Malformed HTTP request line
+[W 19:43:12.441 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155959099257613&a=PC&i=575322592&p=8888 (95.213.187.186): '_xsrf' argument missing from POST
+[W 19:43:12.442 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155959099257613&a=PC&i=575322592&p=8888 (95.213.187.186) 2.24ms referer=https://best-proxies.ru/
+[I 19:43:12.443 NotebookApp] Malformed HTTP message from 95.213.187.186: Malformed HTTP request line
+[W 19:43:17.887 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.190) 1.68ms referer=None
+[W 20:19:52.798 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.62ms referer=None
+[I 22:08:01.838 NotebookApp] 302 GET / (172.105.238.87) 0.68ms
+[I 23:01:32.787 NotebookApp] 302 GET / (209.17.96.34) 0.82ms
+[W 06:23:24.620 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155962940409960&a=PC&i=575322592&p=8888 (95.213.187.190): '_xsrf' argument missing from POST
+[W 06:23:24.622 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155962940409960&a=PC&i=575322592&p=8888 (95.213.187.190) 2.62ms referer=https://best-proxies.ru/
+[I 06:23:24.622 NotebookApp] Malformed HTTP message from 95.213.187.190: Malformed HTTP request line
+[W 06:23:29.758 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.190) 1.77ms referer=None
+[W 11:40:34.676 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155964843423413&a=PC&i=575322592&p=8888 (95.213.187.187): '_xsrf' argument missing from POST
+[W 11:40:34.677 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155964843423413&a=PC&i=575322592&p=8888 (95.213.187.187) 2.66ms referer=https://best-proxies.ru/
+[I 11:40:34.678 NotebookApp] Malformed HTTP message from 95.213.187.187: Malformed HTTP request line
+[W 11:40:39.845 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.189) 1.78ms referer=None
+[I 18:52:56.145 NotebookApp] 302 GET / (92.118.161.29) 0.79ms
+[I 19:20:57.578 NotebookApp] 302 GET / (209.17.96.114) 0.74ms
+[W 06:14:02.110 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155971524203598&a=PC&i=575322592&p=8888 (5.178.86.74): '_xsrf' argument missing from POST
+[W 06:14:02.111 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155971524203598&a=PC&i=575322592&p=8888 (5.178.86.74) 2.51ms referer=https://best-proxies.ru/
+[I 06:14:02.112 NotebookApp] Malformed HTTP message from 5.178.86.74: Malformed HTTP request line
+[W 06:14:07.167 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (5.178.86.74) 1.83ms referer=None
+[W 07:47:15.147 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=155972083505&a=PSCMN&i=575322592&p=8888 (95.213.177.124): '_xsrf' argument missing from POST
+[W 07:47:15.149 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=155972083505&a=PSCMN&i=575322592&p=8888 (95.213.177.124) 2.45ms referer=https://proxyradar.com/
+[I 07:47:15.149 NotebookApp] Malformed HTTP message from 95.213.177.124: Malformed HTTP request line
+[W 13:10:31.138 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155974023185119&a=PC&i=575322592&p=8888 (5.178.86.75): '_xsrf' argument missing from POST
+[W 13:10:31.140 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155974023185119&a=PC&i=575322592&p=8888 (5.178.86.75) 2.33ms referer=https://best-proxies.ru/
+[I 13:10:31.140 NotebookApp] Malformed HTTP message from 5.178.86.75: Malformed HTTP request line
+[W 13:10:36.359 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (5.178.86.76) 1.93ms referer=None
+[I 18:07:27.190 NotebookApp] 302 GET / (209.17.97.114) 0.87ms
+[W 19:15:29.630 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155976212917203&a=PC&i=575322592&p=8888 (109.234.153.132): '_xsrf' argument missing from POST
+[W 19:15:29.631 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155976212917203&a=PC&i=575322592&p=8888 (109.234.153.132) 2.31ms referer=https://best-proxies.ru/
+[I 19:15:29.632 NotebookApp] Malformed HTTP message from 109.234.153.132: Malformed HTTP request line
+[W 19:15:34.659 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.132) 1.72ms referer=None
+[I 20:11:28.517 NotebookApp] Kernel started: 8a34154d-4a3d-4492-94e2-22483fa6a091
+[I 20:11:29.747 NotebookApp] Adapting to protocol v5.1 for kernel 8a34154d-4a3d-4492-94e2-22483fa6a091
+[W 21:02:59.750 NotebookApp] WebSocket ping timeout after 119291 ms.
+[I 21:03:04.752 NotebookApp] Starting buffering for 8a34154d-4a3d-4492-94e2-22483fa6a091:b118e7d4282b4fe48a15d7f7953d6b8b
+[I 02:50:13.855 NotebookApp] 302 GET / (172.105.238.87) 0.93ms
+[W 08:20:53.135 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155980925321954&a=PC&i=575322592&p=8888 (109.234.153.134): '_xsrf' argument missing from POST
+[W 08:20:53.137 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155980925321954&a=PC&i=575322592&p=8888 (109.234.153.134) 2.54ms referer=https://best-proxies.ru/
+[I 08:20:53.137 NotebookApp] Malformed HTTP message from 109.234.153.134: Malformed HTTP request line
+[W 08:20:58.863 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.133) 1.60ms referer=None
+[W 14:37:32.253 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155983185225592&a=PC&i=575322592&p=8888 (109.234.153.130): '_xsrf' argument missing from POST
+[W 14:37:32.256 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155983185225592&a=PC&i=575322592&p=8888 (109.234.153.130) 3.55ms referer=https://best-proxies.ru/
+[I 14:37:32.256 NotebookApp] Malformed HTTP message from 109.234.153.130: Malformed HTTP request line
+[W 14:37:37.705 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.130) 2.24ms referer=None
+[W 20:57:52.915 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155985467245352&a=PC&i=575322592&p=8888 (5.178.86.78): '_xsrf' argument missing from POST
+[W 20:57:52.916 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155985467245352&a=PC&i=575322592&p=8888 (5.178.86.78) 2.44ms referer=https://best-proxies.ru/
+[I 20:57:52.917 NotebookApp] Malformed HTTP message from 5.178.86.78: Malformed HTTP request line
+[W 20:57:58.216 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (5.178.86.78) 1.65ms referer=None
+[I 01:48:49.177 NotebookApp] 302 GET / (209.17.96.226) 0.75ms
+[I 03:48:32.283 NotebookApp] 302 GET / (198.143.158.82) 0.74ms
+[I 03:48:32.354 NotebookApp] 302 GET /tree? (198.143.158.82) 0.77ms
+[W 03:51:41.172 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155987950163147&a=PC&i=575322592&p=8888 (5.178.86.76): '_xsrf' argument missing from POST
+[W 03:51:41.173 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155987950163147&a=PC&i=575322592&p=8888 (5.178.86.76) 2.16ms referer=https://best-proxies.ru/
+[I 03:51:41.173 NotebookApp] Malformed HTTP message from 5.178.86.76: Malformed HTTP request line
+[W 03:51:46.599 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (5.178.86.74) 1.66ms referer=None
+[W 06:05:59.099 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.72ms referer=None
+[W 08:09:06.599 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155989494681891&a=PC&i=575322592&p=8888 (5.178.86.78): '_xsrf' argument missing from POST
+[W 08:09:06.601 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155989494681891&a=PC&i=575322592&p=8888 (5.178.86.78) 2.88ms referer=https://best-proxies.ru/
+[I 08:09:06.601 NotebookApp] Malformed HTTP message from 5.178.86.78: Malformed HTTP request line
+[W 08:09:11.709 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (5.178.86.76) 1.54ms referer=None
+[I 08:33:28.978 NotebookApp] 302 GET / (139.162.83.10) 0.71ms
+[I 12:03:43.114 NotebookApp] 302 GET /?token=019b4f5e71c5222c161af572ff6a0bda71f47d7591e36d5e (93.175.102.151) 0.73ms
+[W 12:40:33.457 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155991123301970&a=PC&i=575322592&p=8888 (5.178.86.74): '_xsrf' argument missing from POST
+[W 12:40:33.458 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155991123301970&a=PC&i=575322592&p=8888 (5.178.86.74) 2.13ms referer=https://best-proxies.ru/
+[I 12:40:33.459 NotebookApp] Malformed HTTP message from 5.178.86.74: Malformed HTTP request line
+[W 12:40:38.499 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (5.178.86.75) 1.50ms referer=None
+[I 12:44:59.426 NotebookApp] Adapting to protocol v5.1 for kernel 8a34154d-4a3d-4492-94e2-22483fa6a091
+[I 12:47:21.903 NotebookApp] Kernel started: 5548cbcb-e767-43b3-8bec-b86f4c451087
+[I 12:47:23.138 NotebookApp] Adapting to protocol v5.1 for kernel 5548cbcb-e767-43b3-8bec-b86f4c451087
+[W 13:24:31.792 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=155991387143&a=PSCMN&i=575322592&p=8888 (95.213.177.125): '_xsrf' argument missing from POST
+[W 13:24:31.794 NotebookApp] 403 POST http://check.proxyradar.com/azenv.php?auth=155991387143&a=PSCMN&i=575322592&p=8888 (95.213.177.125) 2.50ms referer=https://proxyradar.com/
+[I 13:24:31.794 NotebookApp] Malformed HTTP message from 95.213.177.125: Malformed HTTP request line
+[W 15:12:31.077 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.68ms referer=None
+[W 16:14:23.141 NotebookApp] WebSocket ping timeout after 119880 ms.
+[I 16:14:28.143 NotebookApp] Starting buffering for 5548cbcb-e767-43b3-8bec-b86f4c451087:2b4c16eb857e4a259e495e56f10d6b5a
+[W 16:14:29.429 NotebookApp] WebSocket ping timeout after 119879 ms.
+[I 16:14:34.431 NotebookApp] Starting buffering for 8a34154d-4a3d-4492-94e2-22483fa6a091:c2b39d3ccfbe42528747d5a0b496da14
+[I 17:11:31.176 NotebookApp] Adapting to protocol v5.1 for kernel 5548cbcb-e767-43b3-8bec-b86f4c451087
+[I 17:11:31.177 NotebookApp] Restoring connection for 5548cbcb-e767-43b3-8bec-b86f4c451087:2b4c16eb857e4a259e495e56f10d6b5a
+[I 17:11:31.947 NotebookApp] Adapting to protocol v5.1 for kernel 8a34154d-4a3d-4492-94e2-22483fa6a091
+[I 17:11:31.948 NotebookApp] Restoring connection for 8a34154d-4a3d-4492-94e2-22483fa6a091:c2b39d3ccfbe42528747d5a0b496da14
+[I 20:03:23.020 NotebookApp] Starting buffering for 8a34154d-4a3d-4492-94e2-22483fa6a091:c2b39d3ccfbe42528747d5a0b496da14
+[I 20:03:26.619 NotebookApp] Starting buffering for 5548cbcb-e767-43b3-8bec-b86f4c451087:2b4c16eb857e4a259e495e56f10d6b5a
+[I 20:54:34.498 NotebookApp] 302 GET / (209.17.96.194) 0.76ms
+[I 23:58:22.644 NotebookApp] 302 GET / (89.248.174.3) 0.67ms
+[W 00:19:56.494 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.78ms referer=None
+[W 07:56:22.436 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155998058251440&a=PC&i=575322592&p=8888 (95.213.187.186): '_xsrf' argument missing from POST
+[W 07:56:22.437 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=155998058251440&a=PC&i=575322592&p=8888 (95.213.187.186) 2.48ms referer=https://best-proxies.ru/
+[I 07:56:22.437 NotebookApp] Malformed HTTP message from 95.213.187.186: Malformed HTTP request line
+[W 07:56:27.587 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.189) 1.84ms referer=None
+[W 14:53:18.078 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156000559801218&a=PC&i=575322592&p=8888 (95.213.187.187): '_xsrf' argument missing from POST
+[W 14:53:18.079 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156000559801218&a=PC&i=575322592&p=8888 (95.213.187.187) 2.65ms referer=https://best-proxies.ru/
+[I 14:53:18.080 NotebookApp] Malformed HTTP message from 95.213.187.187: Malformed HTTP request line
+[W 14:53:23.244 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.186) 1.50ms referer=None
+[I 16:00:48.434 NotebookApp] 302 GET / (92.118.161.49) 0.79ms
+[W 17:10:10.982 NotebookApp] 404 GET http://metadata.google.internal/computeMetadata/v1/instance/disks/?recursive=true (46.246.43.86) 1.62ms referer=None
+[I 17:45:57.220 NotebookApp] 302 GET / (209.17.97.106) 0.73ms
+[W 20:55:07.483 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156002730785732&a=PC&i=575322592&p=8888 (109.234.153.130): '_xsrf' argument missing from POST
+[W 20:55:07.485 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156002730785732&a=PC&i=575322592&p=8888 (109.234.153.130) 2.32ms referer=https://best-proxies.ru/
+[I 20:55:07.485 NotebookApp] Malformed HTTP message from 109.234.153.130: Malformed HTTP request line
+[W 20:55:12.848 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.130) 1.57ms referer=None
+[W 23:37:41.297 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.69ms referer=None
+[W 23:37:41.443 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.47ms referer=None
+[W 02:52:52.580 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156004877225919&a=PC&i=575322592&p=8888 (109.234.153.130): '_xsrf' argument missing from POST
+[W 02:52:52.582 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156004877225919&a=PC&i=575322592&p=8888 (109.234.153.130) 2.16ms referer=https://best-proxies.ru/
+[I 02:52:52.582 NotebookApp] Malformed HTTP message from 109.234.153.130: Malformed HTTP request line
+[W 02:52:57.613 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.134) 1.50ms referer=None
+[W 08:53:19.584 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156007039915652&a=PC&i=575322592&p=8888 (109.234.153.130): '_xsrf' argument missing from POST
+[W 08:53:19.586 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156007039915652&a=PC&i=575322592&p=8888 (109.234.153.130) 2.45ms referer=https://best-proxies.ru/
+[I 08:53:19.586 NotebookApp] Malformed HTTP message from 109.234.153.130: Malformed HTTP request line
+[W 08:53:24.695 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.134) 1.82ms referer=None
+[W 09:44:10.753 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.84ms referer=None
+[W 09:44:30.873 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.57ms referer=None
+[W 14:52:31.685 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156009195133658&a=PC&i=575322592&p=8888 (109.234.153.133): '_xsrf' argument missing from POST
+[W 14:52:31.687 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156009195133658&a=PC&i=575322592&p=8888 (109.234.153.133) 2.37ms referer=https://best-proxies.ru/
+[I 14:52:31.687 NotebookApp] Malformed HTTP message from 109.234.153.133: Malformed HTTP request line
+[W 14:52:37.056 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (109.234.153.133) 1.58ms referer=None
+[I 19:00:15.730 NotebookApp] 302 GET / (198.108.66.48) 0.63ms
+[I 19:00:15.764 NotebookApp] 302 GET /tree? (198.108.66.48) 0.79ms
+[W 20:52:53.321 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156011357303178&a=PC&i=575322592&p=8888 (95.213.187.188): '_xsrf' argument missing from POST
+[W 20:52:53.322 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156011357303178&a=PC&i=575322592&p=8888 (95.213.187.188) 2.22ms referer=https://best-proxies.ru/
+[I 20:52:53.323 NotebookApp] Malformed HTTP message from 95.213.187.188: Malformed HTTP request line
+[W 20:52:58.517 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.189) 1.69ms referer=None
+[I 23:43:18.387 NotebookApp] 302 GET / (209.17.96.26) 0.77ms
+[W 02:52:05.148 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156013512595949&a=PC&i=575322592&p=8888 (95.213.187.190): '_xsrf' argument missing from POST
+[W 02:52:05.150 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156013512595949&a=PC&i=575322592&p=8888 (95.213.187.190) 2.47ms referer=https://best-proxies.ru/
+[I 02:52:05.150 NotebookApp] Malformed HTTP message from 95.213.187.190: Malformed HTTP request line
+[W 02:52:10.135 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.189) 1.85ms referer=None
+[W 08:52:34.682 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156015675439408&a=PC&i=575322592&p=8888 (95.213.187.187): '_xsrf' argument missing from POST
+[W 08:52:34.684 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156015675439408&a=PC&i=575322592&p=8888 (95.213.187.187) 2.27ms referer=https://best-proxies.ru/
+[I 08:52:34.684 NotebookApp] Malformed HTTP message from 95.213.187.187: Malformed HTTP request line
+[W 08:52:40.325 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.187) 1.57ms referer=None
+[W 09:07:55.830 NotebookApp] 404 GET http://110.249.212.46/testget?q=23333&port=8888 (110.249.212.46) 1.85ms referer=None
+[W 14:51:42.278 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156017830223432&a=PC&i=575322592&p=8888 (95.213.187.190): '_xsrf' argument missing from POST
+[W 14:51:42.280 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=156017830223432&a=PC&i=575322592&p=8888 (95.213.187.190) 2.75ms referer=https://best-proxies.ru/
+[I 14:51:42.281 NotebookApp] Malformed HTTP message from 95.213.187.190: Malformed HTTP request line
+[W 14:51:47.522 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.186) 1.74ms referer=None
+[I 15:39:18.437 NotebookApp] 302 GET / (139.162.83.10) 0.74ms
